@@ -1,4 +1,5 @@
 ranger 1.9.3
+jems
 ============
 
 <img src="https://ranger.github.io/ranger_logo.png" width="150">
